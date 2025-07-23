@@ -1,4 +1,4 @@
-# Hi there, I'm Grace 👋
+# Hi there, I'm Jeffrey 👋
 
 I'm a **Cloud Engineer** passionate about designing, building, and scaling cloud-native solutions. My journey is driven by curiosity and a love for learning, especially when it comes to new programming languages and hands-on experiences.
 
@@ -30,3 +30,6 @@ I thrive on exploring new technologies and applying them in practical, real-worl
 ---
 
 > “Never stop learning, because life never stops teaching.”
+
+
+>  [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,gcp,kubernetes,terraform,)](https://skillicons.dev)
